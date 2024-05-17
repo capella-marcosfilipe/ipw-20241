@@ -1,0 +1,25 @@
+nav {
+  margin: 5% 15% 0 15%;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.menu-opcoes {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.menu-opcoes a {
+  text-decoration: none;
+  color: white;
+}
+
+.menu-opcoes a:hover {
+  color: orange;
+}
+
+.menu-opcoes a:active {
+  color: red;
+}

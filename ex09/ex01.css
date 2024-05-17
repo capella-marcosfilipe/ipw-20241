@@ -1,0 +1,12 @@
+body {
+  background-image: url("images/background.png");
+}
+
+main {
+  margin: 5% 15%;
+}
+
+.titulo {
+  background-color: red;
+  border: 2px solid green;
+}
