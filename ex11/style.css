@@ -1,0 +1,22 @@
+.mostruario {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  margin: auto;
+}
+
+.container {
+  background-color: green;
+  padding: 10px;
+  margin: 10px;
+  width: 20%;
+}
+
+.container img {
+  width: 100%;
+}
+
+footer {
+  background-color: orange;
+}
